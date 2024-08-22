@@ -1,2 +1,10 @@
-package com.keshab;public class Demo {
+package com.keshab;
+interface A
+{
+    void show();
+    void config();
+}
+public class Demo
+{
+
 }
