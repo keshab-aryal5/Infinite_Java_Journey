@@ -31,7 +31,7 @@ public class Question1 {
     public static void main(String[] args) {
         GoodMorning gm = new GoodMorning();
         Welcome wel = new Welcome();
-        
+
         gm.setPriority(Thread.MIN_PRIORITY);
         System.out.println(gm.getPriority());
         System.out.println(gm.getState());
