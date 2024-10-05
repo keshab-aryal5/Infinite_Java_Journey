@@ -50,6 +50,6 @@ class JMenuFrame extends JFrame implements ItemListener
 }
 public class JMenuItemListener {
     public static void main(String[] args) {
-        JMenuFrame jmf = new JMenuFrame();
+        JMenuFrame jmf = new JMenuFrame(); 
     }
 }
