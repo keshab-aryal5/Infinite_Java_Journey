@@ -1,0 +1,13 @@
+package oops;
+
+public class MotorBike {
+	String name;
+	public MotorBike(String name)
+	{
+		this.name = name;
+	}
+	void start()
+	{
+		System.out.println("Starting bike "+this.name);
+	}
+}
