@@ -23,7 +23,7 @@ public class LocalDateExplore {
 		System.out.println(todaynow);
 		LocalDate yesterday = LocalDate.of(2024, 2, 28);
 		System.out.println(yesterday);
-		//		System.out.println(todaynow.getYear() - yesterday.getYear());
+
 		LocalDate birthday = LocalDate.of(2001, 12, 10);
 		int year = todaynow.getYear() - birthday.getYear();
 		int month = todaynow.getMonthValue() - birthday.getMonthValue();
@@ -37,6 +37,5 @@ public class LocalDateExplore {
 		System.out.println(todaynow.withDayOfYear(36));
 
 		System.out.println(todaynow.isAfter(birthday));
-
 	}
 }
