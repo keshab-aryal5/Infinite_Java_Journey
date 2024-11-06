@@ -1,8 +1,0 @@
-package keshab;
-
-public class NewMain {
-public static void Main(String[] args)
-{
-	System.out.println("Hello World");
-}
-}

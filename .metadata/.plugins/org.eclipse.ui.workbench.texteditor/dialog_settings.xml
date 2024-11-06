@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<item key="hasShownOverlayPopupBefore" value="true"/>
-	<item key="replaceBarOpen" value="true"/>
+	<item key="replaceBarOpen" value="false"/>
 	<list key="searchhistory">
+		<item value="toString"/>
+		<item value="double"/>
 		<item value="x"/>
 		<item value=" *"/>
 		<item value="*"/>
 	</list>
 	<list key="replacehistory">
+		<item value="int"/>
 		<item value=" x"/>
 		<item value="x"/>
 	</list>
