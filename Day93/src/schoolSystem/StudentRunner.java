@@ -2,8 +2,19 @@ package schoolSystem;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Comparator;
 import java.util.Iterator;
 import java.util.List;
+
+class NayaCompare implements Comparator<Student> {
+
+	@Override
+	public int compare(Student o1, Student o2) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}
 public class StudentRunner {
 
 	public static void main(String[] args) {
@@ -20,6 +31,8 @@ public class StudentRunner {
 		while (content.hasNext()) {
 			System.out.println(content.next());
 		}
+
+		Collections.sort(std, new NayaCompare());
 	}
 
 }

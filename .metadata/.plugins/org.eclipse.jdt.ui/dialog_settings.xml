@@ -40,7 +40,7 @@
 		<item key="DIALOG_X_ORIGIN" value="859"/>
 		<item key="DIALOG_Y_ORIGIN" value="359"/>
 		<item key="DIALOG_WIDTH" value="700"/>
-		<item key="DIALOG_HEIGHT" value="758"/>
+		<item key="DIALOG_HEIGHT" value="783"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 	</section>
 	<section name="OptionalMessageDialog.hide.">
@@ -72,8 +72,8 @@
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 	</section>
 	<section name="NewPackageCreationWizard.dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="859"/>
-		<item key="DIALOG_Y_ORIGIN" value="364"/>
+		<item key="DIALOG_X_ORIGIN" value="620"/>
+		<item key="DIALOG_Y_ORIGIN" value="494"/>
 		<item key="DIALOG_WIDTH" value="700"/>
 		<item key="DIALOG_HEIGHT" value="500"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
@@ -157,5 +157,15 @@
 		<item key="DIALOG_WIDTH" value="478"/>
 		<item key="DIALOG_HEIGHT" value="681"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="NewRecordCreationWizard.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="859"/>
+		<item key="DIALOG_Y_ORIGIN" value="214"/>
+		<item key="DIALOG_WIDTH" value="700"/>
+		<item key="DIALOG_HEIGHT" value="706"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="NewRecordWizardPage">
+		<item key="create_unimplemented" value="false"/>
 	</section>
 </section>
