@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="E:\Others\Infinite_Java_Journey\Day94\src\generics\GenericsRunner.java"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

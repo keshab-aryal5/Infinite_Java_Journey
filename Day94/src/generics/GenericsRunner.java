@@ -1,11 +1,38 @@
 package generics;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class GenericsRunner {
 
+	public static <X> X doubleValue(X value) {
+		return value;
+	}
+
+	public static <X extends List> void duplicateList(X list) {
+		list.addAll(list);
+
+	}
+
+	static double sumOfNumberList(List<? extends Number> numbers) {
+		double value = 0.0;
+		for (Number number : numbers) {
+			value += number.doubleValue();
+		}
+		return value;
+	}
 	public static void main(String[] args) {
-		MyCustomeList<String> list = new MyCustomeList<>();
-		list.addElement("Element 1");
-		list.addElement("Element 2");
+
+		ArrayList list1 = doubleValue(new ArrayList());
+
+		ArrayList<Integer> numbers = new ArrayList<>(List.of(1, 2, 3));
+		duplicateList(numbers);
+
+		System.out.println(numbers);
+
+		MyCustomeList<Long> list = new MyCustomeList<>();
+		list.addElement(5L);
+		list.addElement(7L);
 
 		MyCustomeList<Integer> list2 = new MyCustomeList<>();
 		list2.addElement(70);

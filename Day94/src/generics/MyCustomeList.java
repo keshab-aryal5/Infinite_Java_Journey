@@ -2,7 +2,7 @@ package generics;
 
 import java.util.ArrayList;
 
-public class MyCustomeList<T> {
+public class MyCustomeList<T extends Number> {
 	ArrayList<T> list = new ArrayList<>();
 	public void addElement(T element)
 	{
