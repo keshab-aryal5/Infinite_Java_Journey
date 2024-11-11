@@ -25,7 +25,8 @@ public class CallableRunner {
 		ExecutorService executorService = Executors.newFixedThreadPool(1);
 		Future<String> welcomeFuture = executorService.submit(new CallableTask("in28Minutes"));
 
-		System.out.println("Main Completed.");
+		System.out.println("\nnew CallableTask(\"in28Minutes\") executed");
+		System.out.println("\nMain Completed.");
 	}
 
 }
