@@ -44,8 +44,8 @@
 	<section name="JavaElementSearchActions">
 	</section>
 	<section name="NewClassCreationWizard.dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="-4"/>
-		<item key="DIALOG_Y_ORIGIN" value="43"/>
+		<item key="DIALOG_X_ORIGIN" value="905"/>
+		<item key="DIALOG_Y_ORIGIN" value="265"/>
 		<item key="DIALOG_WIDTH" value="700"/>
 		<item key="DIALOG_HEIGHT" value="783"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
@@ -66,6 +66,10 @@
 		<item key="FinalModifier" value="false"/>
 		<item key="SynchronizedModifier" value="false"/>
 		<item key="Comments" value="false"/>
+		<item key="InstanceOf" value="false"/>
+		<item key="Blocks" value="false"/>
+		<item key="Objects.equals &amp; Objects.hash" value="true"/>
+		<item key="InsertPosition.v2" value="0"/>
 	</section>
 	<section name="AddGetterSetterDialog">
 		<item key="SortOrdering" value="false"/>
@@ -79,8 +83,8 @@
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 	</section>
 	<section name="NewPackageCreationWizard.dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="168"/>
-		<item key="DIALOG_Y_ORIGIN" value="155"/>
+		<item key="DIALOG_X_ORIGIN" value="657"/>
+		<item key="DIALOG_Y_ORIGIN" value="270"/>
 		<item key="DIALOG_WIDTH" value="700"/>
 		<item key="DIALOG_HEIGHT" value="480"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
@@ -200,5 +204,14 @@
 	</section>
 	<section name="ClasspathContainerSelectionPage">
 		<item key="index" value="10"/>
+	</section>
+	<section name="DialogBounds_GenerateHashCodeEqualsDialog">
+		<item key="DIALOG_X_ORIGIN" value="870"/>
+		<item key="DIALOG_Y_ORIGIN" value="176"/>
+		<item key="DIALOG_WIDTH" value="678"/>
+		<item key="DIALOG_HEIGHT" value="763"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="RenameInformationPopup">
 	</section>
 </section>
