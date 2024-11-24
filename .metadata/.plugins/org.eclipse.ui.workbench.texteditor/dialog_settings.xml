@@ -1,17 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<item key="hasShownOverlayPopupBefore" value="true"/>
-	<item key="replaceBarOpen" value="false"/>
+	<item key="replaceBarOpen" value="true"/>
 	<list key="searchhistory">
-		<item value="toString"/>
-		<item value="double"/>
-		<item value="x"/>
-		<item value=" *"/>
-		<item value="*"/>
+		<item value="addbtnRemoveTerm1Handler"/>
+		<item value="addbtnAddTerm1Handler"/>
+		<item value="leftCurrentTerm1Credits"/>
+		<item value="lvCurrentTerm1Credits"/>
+		<item value="lvSelectedTerm1Modules"/>
+		<item value="lvSelectedYearLongModules"/>
+		<item value="lvUnselectedTerm2ModuleslistView"/>
+		<item value="lvUnselectedTerm1ModuleslistView"/>
+		<item value="lblCurrentTerm1Credits"/>
+		<item value="lblSelectedBloc3_4Modules"/>
+		<item value="lblSelectedTerm1Modules"/>
+		<item value="lblTerm1"/>
+		<item value="imat3423"/>
+		<item value="ctec3451"/>
+		<item value="15,"/>
 	</list>
 	<list key="replacehistory">
-		<item value="int"/>
-		<item value=" x"/>
-		<item value="x"/>
+		<item value="addbtnRemoveBlock3_4Handler"/>
+		<item value="addbtnAddBlock3_4Handler"/>
+		<item value="CurrentCredit"/>
+		<item value="lvlCurrentCredits"/>
+		<item value="lvlSelectedBlock3_4Modules"/>
+		<item value="lvlUnselectedBlock3_4Modules"/>
+		<item value="lvlSelectedBlock2ModuleslistView"/>
+		<item value="lvlSelectedBlock1ModuleslistView"/>
+		<item value="lblCurrentCredits"/>
+		<item value="lblSelectedBlock3_4Modules"/>
+		<item value="lblSelectedBloc3_4Modules"/>
+		<item value="lblblock3_4"/>
+		<item value="ctec3701"/>
+		<item value="ctec3702"/>
+		<item value="30"/>
 	</list>
 </section>
