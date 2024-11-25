@@ -3,6 +3,7 @@
 	<item key="hasShownOverlayPopupBefore" value="true"/>
 	<item key="replaceBarOpen" value="true"/>
 	<list key="searchhistory">
+		<item value="mywords"/>
 		<item value="addbtnRemoveTerm1Handler"/>
 		<item value="addbtnAddTerm1Handler"/>
 		<item value="leftCurrentTerm1Credits"/>
@@ -17,9 +18,9 @@
 		<item value="lblTerm1"/>
 		<item value="imat3423"/>
 		<item value="ctec3451"/>
-		<item value="15,"/>
 	</list>
 	<list key="replacehistory">
+		<item value="wordsArrayList"/>
 		<item value="addbtnRemoveBlock3_4Handler"/>
 		<item value="addbtnAddBlock3_4Handler"/>
 		<item value="CurrentCredit"/>
@@ -34,6 +35,5 @@
 		<item value="lblblock3_4"/>
 		<item value="ctec3701"/>
 		<item value="ctec3702"/>
-		<item value="30"/>
 	</list>
 </section>
