@@ -3,6 +3,7 @@
 	<item key="hasShownOverlayPopupBefore" value="true"/>
 	<item key="replaceBarOpen" value="true"/>
 	<list key="searchhistory">
+		<item value="SuperContra"/>
 		<item value="mywords"/>
 		<item value="addbtnRemoveTerm1Handler"/>
 		<item value="addbtnAddTerm1Handler"/>
@@ -17,9 +18,9 @@
 		<item value="lblSelectedTerm1Modules"/>
 		<item value="lblTerm1"/>
 		<item value="imat3423"/>
-		<item value="ctec3451"/>
 	</list>
 	<list key="replacehistory">
+		<item value="PacMan"/>
 		<item value="wordsArrayList"/>
 		<item value="addbtnRemoveBlock3_4Handler"/>
 		<item value="addbtnAddBlock3_4Handler"/>
@@ -34,6 +35,5 @@
 		<item value="lblSelectedBloc3_4Modules"/>
 		<item value="lblblock3_4"/>
 		<item value="ctec3701"/>
-		<item value="ctec3702"/>
 	</list>
 </section>

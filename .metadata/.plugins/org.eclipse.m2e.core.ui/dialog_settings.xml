@@ -63,9 +63,9 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="E:\Others\Infinite_Java_Journey\learn-spring-framework"/>
 			<item value="E:\Others\Infinite_Java_Journey\learn-spring-framework\learn-spring-framework"/>
 			<item value="E:\Others\Infinite_Java_Journey"/>
-			<item value="E:\Others\Infinite_Java_Journey\learn-spring-framework"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
